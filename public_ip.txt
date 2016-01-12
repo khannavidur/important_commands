@@ -1,0 +1,5 @@
+#To know the IP
+ifconfig
+
+#To know public IP
+curl ifconfig.me
